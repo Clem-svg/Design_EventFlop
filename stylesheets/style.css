@@ -10610,3 +10610,17 @@ footer li{
   background-position-y: 63%;
 
 }
+
+
+#ressourceimg {
+  width: 100%;
+}
+
+.container-ressource {
+  background-color: white;
+}
+
+.list-unstyled {
+  display: flex;
+  justify-content: space-around;
+}
